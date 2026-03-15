@@ -19,7 +19,7 @@
 ## 🛠️ Languages and Tools
 
 ![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge\&logo=c%2B%2B)
-![C-Programming] (https://img.shield.io/badge/C-red?style=for-the-badge\&logo=C)
+![C](https://img.shields.io/badge/C-Programming-blue?style=for-the-badge&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge\&logo=python)
 ![Java](https://img.shields.io/badge/Java-red?style=for-the-badge\&logo=java)
 ![HTML](https://img.shields.io/badge/HTML5-orange?style=for-the-badge\&logo=html5)
