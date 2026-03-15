@@ -26,6 +26,7 @@
 ![CSS](https://img.shields.io/badge/CSS3-blue?style=for-the-badge\&logo=css3)
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge\&logo=javascript)
 ![React](https://img.shields.io/badge/React-blue?style=for-the-badge\&logo=react)
+![DSA](https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-DSA-blueviolet?style=for-the-badge)
 ![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge\&logo=git)
 
 ---
@@ -36,12 +37,14 @@
 
 ---
 
-## 🔗 Connect with Me
+## 🌐 Connect With Me
 
-* 💼 LinkedIn [Anjani Kumar] (https://www.linkedin.com/feed/)
-* 🐦 Twitter [Anjani_Kumar75] (https://x.com/home)
-* portfolio
-* 📧 Email: [anjanik97096@gmail.com] (mailto:anjanik97096@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/anjani-kumar75/)
+
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-blue?style=for-the-badge\&logo=twitter)](https://x.com/Anjani_Kumar75)
+
+[![Email](https://img.shields.io/badge/Gmail-Send%20Mail-red?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:anjanik97096@gmail.com)
+
 
 ---
 
