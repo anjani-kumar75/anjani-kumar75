@@ -1,11 +1,11 @@
 # Hi 👋, I'm Anjani Kumar
 <p align="center">
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjRtaTN4eWJtOTQzYmZwaG04cW5tdHltcnF6a2hta3g2cmRxcXlpNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gzxhg2sVsPcha29OGt/giphy.gif" width="300" align="right"/>
-</p>
 🎓 **B.Tech Computer Science & Engineering Student**
 💻 Passionate about **Programming, AI and Web Development**
 🚀 Currently learning **C++, Python, C Programming and Data Structures & Algorithms**
 🌱 Exploring **Full Stack Web Development**
+</p>
 
 ---
 
