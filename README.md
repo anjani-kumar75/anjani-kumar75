@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anjani Kumar</h1>
 
 <p align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjRtaTN4eWJtOTQzYmZwaG04cW5tdHltcnF6a2hta3g2cmRxcXlpNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gzxhg2sVsPcha29OGt/giphy.gif" width="600">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjRtaTN4eWJtOTQzYmZwaG04cW5tdHltcnF6a2hta3g2cmRxcXlpNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gzxhg2sVsPcha29OGt/giphy.gif" width="400" height="400">
 </p>
 
 <h3 align="center">Frontend Developer | CSE Student</h3>
