@@ -31,6 +31,12 @@
 ![DSA](https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-DSA-blueviolet?style=for-the-badge)
 ![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge\&logo=git)
 
+### 🔐 Cyber Security
+![Cyber Security](https://img.shields.io/badge/Cyber%20Security-blue?style=for-the-badge&logo=hackthebox&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali%20Linux-black?style=for-the-badge&logo=kalilinux)
+![Networking](https://img.shields.io/badge/Networking-grey?style=for-the-badge&logo=cisco)
+
+
 ---
 
 ## 📊 GitHub Stats
