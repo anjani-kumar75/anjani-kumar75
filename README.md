@@ -1,10 +1,10 @@
-<h1 align="center">𝓗𝓲 👋, 𝓘'𝓶 𝓐𝓷𝓳𝓪𝓷𝓲 𝓚𝓾𝓶𝓪𝓻</h1>
+<h1 align="center">▁ ▂ ▄ ▅ ▆ ▇ █   🎀  𝐻𝒾 𝒯𝒽𝑒𝓇𝑒  🎀   █ ▇ ▆ ▅ ▄ ▂ ▁</h1>
 
 <p align="center">
   <img src="RocketGif.gif" width="700" height="300">
 </p>
 
-<h3 align="center">𝓩𝓸𝓶𝓫𝓲𝓮</h3>
+<h1 align="center">𝓗𝓲 👋, 𝓘'𝓶 𝓐𝓷𝓳𝓪𝓷𝓲 𝓚𝓾𝓶𝓪𝓻</h1>
 
 🎓 **B.Tech Computer Science & Engineering Student**
 💻 Passionate about **Programming, AI and Web Development**
