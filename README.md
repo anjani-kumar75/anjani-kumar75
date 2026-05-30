@@ -1,7 +1,7 @@
 <h1 align="center">𝓗𝓲 👋, 𝓘'𝓶 𝓐𝓷𝓳𝓪𝓷𝓲 𝓚𝓾𝓶𝓪𝓻</h1>
 
 <p align="center">
-  <img src="RocketGif.gif" width="400" height="200">
+  <img src="RocketGif.gif" width="700" height="300">
 </p>
 
 <h3 align="center">𝓩𝓸𝓶𝓫𝓲𝓮</h3>
