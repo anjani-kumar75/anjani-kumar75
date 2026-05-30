@@ -1,7 +1,7 @@
 <h1 align="center">𝓗𝓲 👋, 𝓘'𝓶 𝓐𝓷𝓳𝓪𝓷𝓲 𝓚𝓾𝓶𝓪𝓻</h1>
 
 <p align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzBteXNoZ2swb3RuOWRxNDByYXB5Ymd5bzN6ZDJsc2RhYnB6ZDdueiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iokemt88U2g5fsAj94/giphy.gif" width="200" height="300">
+  <iframe src="https://giphy.com/embed/iokemt88U2g5fsAj94" width="480" height="271" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/nasa-space-science-earth-iokemt88U2g5fsAj94">via GIPHY</a></p>
 </p>
 
 <h3 align="center">𝓩𝓸𝓶𝓫𝓲𝓮</h3>
